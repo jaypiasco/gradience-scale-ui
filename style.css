@@ -1,0 +1,17 @@
+input {
+    position: relative;
+    
+}
+
+div.image img{
+    height: 400px;
+    width: 400px;
+}
+
+div.image {
+    margin-left: 30%;
+}
+
+span {
+    cursor: pointer;
+}
